@@ -7,14 +7,14 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/TheAaryan/count.svg" /><br>
+  <img src="https://profile-counter.glitch.me/AryanBagade/count.svg" /><br>
   Followers<br>
-  <a href="https://github.com/TheAaryan?tab=followers"><img src="https://img.shields.io/github/followers/TheAaryan?label=Followers&style=social" alt="GitHub Badge"></a>
+  <a href="https://github.com/AryanBagade?tab=followers"><img src="https://img.shields.io/github/followers/AryanBagade?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
 ## My GitHub contributions as a Game of Life
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/TheAaryan.gif?z=6)](https://github4life.herokuapp.com/TheAaryan)
+[![GitHub Game of Life](https://github4life.herokuapp.com/AryanBagade.gif?z=6)](https://github4life.herokuapp.com/TheAaryan)
 
 ## 🚀 Languages and Tools:
 
@@ -38,6 +38,25 @@
     <a href="https://www.javatpoint.com/c-programming-language-tutorial" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
 </p>
 
+<p align="center">
+    <a href="https://github.com/TheAaryan/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aryan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAaryan&theme=chartreuse-dark&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/TheAaryan/github-readme-stats"><img alt="Aryan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheAaryan&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/TheAaryan/github-readme-stats"><img alt="Aryan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAaryan&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <br>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  <br/>
+  <br>
+
+  [![Aryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=TheAaryan&theme=chartreuse-dark)](https://github.com/TheAaryan/github-readme-activity-graph)
 
 ## Connect with me:
 <p align="left">
