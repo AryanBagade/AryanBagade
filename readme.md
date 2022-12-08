@@ -56,7 +56,6 @@
   <br/>
   <br>
 
-  [![Aryan's github activity graph](https://activity-graph.herokuapp.com/graph?username=AryanBagade&theme=chartreuse-dark)](https://github.com/AryanBagade/github-readme-activity-graph)
 
 ## Connect with me:
 <p align="left">
