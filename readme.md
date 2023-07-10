@@ -1,5 +1,4 @@
 <div align="center">
-<a href="#"><img width="500px" src="./images/—Pngtree—hacker%20programming%20flat%20clipart%20illustration_5388978.png"/></a>
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aryan</h1>
